@@ -1,0 +1,6 @@
+*
+!.gitignore
+!misc.xml
+!modules.xml
+!spring-petclinic.xml
+!spring-petclinic.iml
