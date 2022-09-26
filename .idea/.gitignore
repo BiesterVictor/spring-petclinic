@@ -2,3 +2,5 @@
 !.gitignore
 !modules.xml
 !spring-petclinic.iml
+!libraries
+!libraries/*
